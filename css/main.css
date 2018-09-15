@@ -1,3 +1,12 @@
 html {
   font-family: 'Roboto Mono', monospace;
 }
+
+.i-btn {
+    transition: all .3s ease;
+}
+
+.i-btn:focus,
+.i-btn:hover {
+  transform: scale(.9);
+}
