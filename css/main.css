@@ -10,3 +10,15 @@ html {
 .i-btn:hover {
   transform: scale(.9);
 }
+
+.me {
+  width: 70%;
+  max-width: 500px;
+  margin: auto;
+}
+
+.icons {
+  width: 50%;
+  margin: auto;
+  margin-bottom: 7rem;
+}
