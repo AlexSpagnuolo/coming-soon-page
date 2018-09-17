@@ -1,5 +1,5 @@
 html {
-  font-family: 'Roboto Mono', monospace;
+  font-family: "Roboto Mono", monospace;
 }
 
 .i-btn {
@@ -20,5 +20,17 @@ html {
 .icons {
   width: 50%;
   margin: auto;
-  margin-bottom: 7rem;
+}
+
+.email {
+  color: #b59e5f;
+  padding-bottom: 3px;
+  border-bottom: 2px solid transparent;
+  transition: border .3s ease;
+
+}
+
+.email:focus,
+.email:hover {
+  border-bottom: 2px solid #b59e5f;
 }
