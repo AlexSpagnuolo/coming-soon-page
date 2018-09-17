@@ -22,8 +22,11 @@ html {
   margin: auto;
 }
 
-.email {
+a {
   color: #b59e5f;
+}
+
+.email {
   padding-bottom: 3px;
   border-bottom: 2px solid transparent;
   transition: border .3s ease;
